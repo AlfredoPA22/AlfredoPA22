@@ -12,21 +12,21 @@
 ## Qué tecnologías uso?
 
 algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la universidad son:
--Javascript
--C#
--React.js
--Redux
--Node.js
--Express.js
--PostgreSQL
--SQLServer
--Oracle
--Mysql
--Mongo
--Mongoose
--Sequelize
--HTML, CSS
--GIT
+- Javascript
+- C#
+- React.js
+- Redux
+- Node.js
+- Express.js
+- PostgreSQL
+- SQLServer
+- Oracle
+- Mysql
+- Mongo
+- Mongoose
+- Sequelize
+- HTML, CSS
+- GIT
 
 ## Proyectos Destacados
 
