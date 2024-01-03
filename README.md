@@ -13,10 +13,12 @@
 
 algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la universidad son:
 - Javascript
+- Typescript
 - C#
 - React.js
 - Redux
 - Node.js
+- Nest.js
 - Express.js
 - PostgreSQL
 - SQLServer
