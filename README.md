@@ -19,6 +19,7 @@ algunas de las tecnologias en las que me destaco debido a la amplia practica en 
 - Redux
 - Node.js
 - Nest.js
+- Graphql
 - Express.js
 - PostgreSQL
 - SQLServer
