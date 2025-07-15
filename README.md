@@ -4,10 +4,10 @@
 
 ## Acerca de mí
 
-- 👩‍💻 Soy desarrollador de software con experiencia en el desarrollo web.
-- 🎓 Actualmente estoy en el 9no semestre de la carrera de Ingenieria de Sistemas y tengo cursado el Bootcamp de SoyHenry.
+- 👩‍💻 Soy Ingeniero en sistemas especializado en el area de desarrollo de software con experiencia en el desarrollo web.
+- 🎓 Soy graduado de la carrera de Ingenieria de Sistemas y tengo cursado el Bootcamp de SoyHenry.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades técnicas.
-- 💡 Me interesan especialmente el desarrollo web y gestion de base de datos.
+- 💡 Me interesan especialmente el diseño, desarrollo web y gestion de base de datos.
 
 ## Qué tecnologías uso?
 
