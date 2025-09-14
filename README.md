@@ -1,49 +1,54 @@
 # ¡Holaa! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Alfredo Parada (https://github.com/AlfredoPA22), un apasionado de la programación y la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas. Permíteme presentarte un poco sobre mí y mis intereses:
+¡Bienvenido/a a mi perfil de GitHub! Soy Alfredo Parada (https://github.com/AlfredoPA22), Full Stack Developer e Ingeniero en Sistemas con más de 4 años de experiencia en desarrollo web, administración de bases de datos y gestión de servidores
+
+Aquí comparto algunos de mis proyectos, contribuciones y lo que más me apasiona del mundo tech:
 
 ## Acerca de mí
 
-- 👩‍💻 Soy Ingeniero en sistemas especializado en el area de desarrollo de software con experiencia en el desarrollo web.
-- 🎓 Soy graduado de la carrera de Ingenieria de Sistemas y tengo cursado el Bootcamp de SoyHenry.
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades técnicas.
-- 💡 Me interesan especialmente el diseño, desarrollo web y gestion de base de datos.
+- 🎓 Ingeniero en Sistemas graduado en la UDI + Full Stack Web Developer (Henry Bootcamp, 700hs).
+- 👩‍💻 Experiencia en Front-end, Back-end, bases de datos e infraestructura cloud.
+- 📌 Trabajo con metodologías ágiles (Scrum/Kanban) y control de versiones con Git/GitHub.
+- 🌱 En constante aprendizaje, siempre abierto a nuevas tecnologías.
+- 💡 Intereses: diseño y desarrollo web, arquitectura de software y bases de datos.
 
-## Qué tecnologías uso?
+## 🛠️ Tecnologías y Herramientas  
 
-algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la universidad son:
-- Javascript
-- Typescript
-- C#
-- React.js
-- Redux
-- Node.js
-- Nest.js
-- Graphql
-- Express.js
-- PostgreSQL
-- SQLServer
-- Oracle
-- Mysql
-- Mongo
-- Mongoose
-- Sequelize
-- HTML, CSS
-- GIT
+**Lenguajes & Frameworks**  
+- JavaScript, TypeScript, C#  
+- React.js, Redux, NestJS, Express.js, Node.js, GraphQL  
 
-## Proyectos Destacados
+**Bases de Datos**  
+- MongoDB (Mongoose), PostgreSQL, MySQL, SQL Server, Oracle  
 
-Aquí algunos de los proyectos en los que he estado trabajando:
+**Otros**  
+- .NET, Sequelize, HTML, CSS, Tailwind, ShadCN, PrimeReact  
+- Git/GitHub, Jest, Azure, WordPress, Shopify  
 
-1. PI-Pokemon (https://github.com/AlfredoPA22/PI-POKEMON-HENRY) - Esta es una aplicacion web que fue desarrollada para el proyecto final Individual del bootcamp de soy henry donde se aplicacion los conocimientos adquiridos en el bootcamp.
-2. Integrador-RickAndMorty (https://github.com/AlfredoPA22/RickAndMorty) - Esta es una aplicacion web que desarrolle a la par del Bootcamp de soyhenry donde aplique la mayoria de los conocimientos que fui aprendiendo en el bootcamp.
-3. Sistema ERP (https://github.com/AlfredoPA22/SistemaERP) - Este es un sistema ERP universitario desarrollado en .NET C#.
-4. CarGo (https://github.com/AlfredoPA22/PF-FrontEnd, https://github.com/AlfredoPA22/PF-BackEnd) - Esta es una aplicacion web para la gestion de un concesionario de autos el cual desarrolle en grupo para el proyecto final del bootcamp de soyhenry.
+## 🚀 Proyectos Destacados  
 
-## Contacto
+1. **[Inventasys – SaaS ERP de Inventario]**  
+   Sistema multiempresa para pymes mayoristas: gestión de productos, almacenes, transferencias, compras, ventas con pagos parciales, reportes dinámicos y dashboard.  
+   > *Stack*: React (Vite, Tailwind, ShadCN, PrimeReact, Apollo), Node.js, Express, GraphQL, MongoDB.  
 
-- 📧 Puedes contactarme a través de mi correo electrónico: alfredoparadaaguilar@gmail.com.
-- 📫 Encuéntrame en LinkedIn: Alfredo Parada (https://www.linkedin.com/in/alfredo-parada).
-## ¡Gracias por visitar mi perfil!
+2. **[CarGo](https://github.com/AlfredoPA22/PF-FrontEnd)** | [BackEnd](https://github.com/AlfredoPA22/PF-BackEnd)  
+   App para concesionarios: autenticación local y OAuth, filtros avanzados, dashboard, carrito y favoritos.  
+   > *Stack*: React, Redux, Node.js, Express, MongoDB.  
 
-¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y contribuciones. Si tienes alguna pregunta o simplemente quieres charlar sobre programación, tecnología o cualquier otro tema relacionado, no dudes en contactarme. ¡Espero que encuentres algo interesante en mi perfil! 😄
+3. **[Sistema ERP Universitario](https://github.com/AlfredoPA22/SistemaERP)**  
+   ERP multisucursal con contabilidad, gestión de usuarios, productos, stock, ventas y reportes.  
+   > *Stack*: .NET, C#, SQL Server, Entity Framework.  
+
+4. **[PI-Pokémon](https://github.com/AlfredoPA22/PI-POKEMON-HENRY)**  
+   Proyecto individual del bootcamp aplicando CRUD, filtros, ordenamientos y consumo de APIs.  
+
+5. **[Rick & Morty App](https://github.com/AlfredoPA22/RickAndMorty)**  
+   Proyecto integrador con consumo de API, manejo de rutas, favoritos y autenticación básica.  
+
+## 📬 Contacto  
+
+- ✉️ Correo: **alfredoparadaaguilar@gmail.com**  
+- 💼 LinkedIn: [Alfredo Parada](https://www.linkedin.com/in/alfredo-parada)  
+- 🌍 Santa Cruz – Bolivia
+- 
+✨ *Gracias por visitar mi perfil. Siéntete libre de explorar mis proyectos y contactarme para colaborar o conversar sobre tecnología.* 😄  
